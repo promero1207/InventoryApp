@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="action_settings">Settings</string>}
+    <string name="button_sale">SALE</string>
+    <string name="existence_text">In Stock:</string>
+    <string name="product_name">Enter Product Name</string>
+    <string name="product_price">Enter Product Price</string>
+    <string name="product_availability">Enter Product Availability</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="contact_provider">Provider Phone Number</string>
+    <string name="action_save">Save</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="empty_view_title_text">To Add Items to Inventory \n Press Plus Bottom</string>
+    <string name="pick_image">Select Picture</string>
+    <string name="add_product">Add Product</string>
+    <string name="edit_pet">Edit Pet</string>
+    <string name="call_supplier">Call Supplier</string>
+</resources>
